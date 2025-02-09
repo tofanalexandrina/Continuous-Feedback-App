@@ -1,0 +1,7 @@
+Pasi pentru clonarea și pornirea proiectului local:
+1. Descarcati si dezarhivati proiectul.
+2. Rulati npm install -y in folderul /backend
+3. Rulati npm install bcrypt cors dotenv express mongoose uuid in folderul /backend
+4. Pentru pornire server: node Server.js pe /backend
+5. Pentru pornire front: npm run dev pe /frontend
+
