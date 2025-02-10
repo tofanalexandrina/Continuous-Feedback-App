@@ -39,3 +39,14 @@ This application enables real-time feedback for activities such as courses or tu
 ![image](https://github.com/user-attachments/assets/9c4b796a-046c-48b3-b539-ca756d379821)
 
 ## Student User Guide  
+
+### 1. Accessing the App  
+- On the main page, enter the code provided by the Professor.  
+- Click **"Go!"** to access the activity.  
+
+![image](https://github.com/user-attachments/assets/789100b7-439a-40bb-98e3-6ee1f603ad31)
+
+### 2. Leaving Feedback  
+- During the activity, leave feedback by selecting one of the emojis available.
+
+![image](https://github.com/user-attachments/assets/11644c44-2b8d-43fa-b17f-2c7376efc357)
