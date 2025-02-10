@@ -9,13 +9,13 @@ This application enables real-time feedback for activities such as courses or tu
 - On the main page, click **"Log In"** to access your activities or create a new account.  
 - If you don’t have an account, click **"Sign Up"** to register.  
 
-<img src="https://github.com/user-attachments/assets/093b8b82-8469-49b4-9a9e-f8a2dd5d6a84" width="300" />
+<img src="https://github.com/user-attachments/assets/093b8b82-8469-49b4-9a9e-f8a2dd5d6a84" width="500" />
 
 ### 2. Logging In  
 - After clicking **"Log In"**, you will be redirected to the login page.  
 - Enter your credentials to access your account.  
 
-<img src="https://github.com/user-attachments/assets/e1ff638b-e971-4153-bad7-7ede0d40ba4d" width="300" />
+<img src="https://github.com/user-attachments/assets/e1ff638b-e971-4153-bad7-7ede0d40ba4d" width="500" />
 
 ### 3. Creating a New Account  
 - If you don’t have an account, click **"Sign Up"** to proceed to the registration page.
