@@ -38,3 +38,4 @@ This application enables real-time feedback for activities such as courses or tu
 ![image](https://github.com/user-attachments/assets/932bf40d-7e1a-4c1d-a38f-9cb50416a701)  
 ![image](https://github.com/user-attachments/assets/9c4b796a-046c-48b3-b539-ca756d379821)
 
+## Student User Guide  
