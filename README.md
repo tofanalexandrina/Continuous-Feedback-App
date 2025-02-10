@@ -1,7 +1,7 @@
 # Continuous Feedback App  
 
 ## Description  
-This application enables real-time feedback for activities such as courses or tutorials. It features role-based functionality with two primary roles: **Professor** and **Student**.  
+This application enables real-time feedback for activities such as courses or tutorials. It features role-based functionality with two primary roles: **Professor** and **Student**(anonymous).  
 
 ## Professor User Guide  
 
