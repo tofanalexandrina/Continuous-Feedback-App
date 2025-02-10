@@ -18,6 +18,23 @@ This application enables real-time feedback for activities such as courses or tu
 ![image](https://github.com/user-attachments/assets/e1ff638b-e971-4153-bad7-7ede0d40ba4d)  
 
 ### 3. Creating a New Account  
-- If you don’t have an account, click **"Sign Up"** to proceed to the registration page.  
+- If you don’t have an account, click **"Sign Up"** to proceed to the registration page.
+- Once you have signed up, your information is saved in the database (MongoDB), allowing you to log in with your credentials.
 
 ![image](https://github.com/user-attachments/assets/483ce185-7a88-4aa6-870d-2f71d3e70e9f)
+
+### 4. Accessing your Activities  
+- Once logged in, you can access all the activities you've previously created.
+- You can view the details for each activity, including the description, start and end times, activity code, and feedback left by others.
+
+![image](https://github.com/user-attachments/assets/055b80a8-36db-4939-a6f6-3a745c5eb844)
+![image](https://github.com/user-attachments/assets/42d79414-c3b2-4b20-9399-c246c29447b3)
+
+### 5. Creating an Activity  
+- Click the **"Add Activity"** button to open a modal where you can enter the details of the activity.  
+- Click **"Generate Code"** to receive a randomly generated code, which you can share with others.  
+- You can then view the feedback left by others, including emoji reactions and the timestamp of when the feedback was submitted.  
+
+![image](https://github.com/user-attachments/assets/932bf40d-7e1a-4c1d-a38f-9cb50416a701)  
+![image](https://github.com/user-attachments/assets/9c4b796a-046c-48b3-b539-ca756d379821)
+
