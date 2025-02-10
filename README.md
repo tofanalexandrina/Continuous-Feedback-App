@@ -47,6 +47,6 @@ This application enables real-time feedback for activities such as courses or tu
 ![image](https://github.com/user-attachments/assets/789100b7-439a-40bb-98e3-6ee1f603ad31)
 
 ### 2. Leaving Feedback  
-- During the activity, leave feedback by selecting one of the emojis available.
+- Throughout the activity, you can leave feedback by selecting as many emojis as you see fit. Your feedback is anonymous, and you can react multiple times at any point during the activity.
 
 ![image](https://github.com/user-attachments/assets/11644c44-2b8d-43fa-b17f-2c7376efc357)
