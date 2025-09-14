@@ -1,6 +1,5 @@
 # Continuous Feedback App  
 
-## Description  
 This application enables real-time feedback for activities such as courses or tutorials. It features role-based functionality with two primary roles: **Professor** and **Student**(anonymous).  
 
 ## Professor User Guide  
@@ -54,3 +53,4 @@ This application enables real-time feedback for activities such as courses or tu
 - Throughout the activity, you can leave feedback by selecting as many emojis as you see fit. Your feedback is anonymous, and you can react multiple times at any point during the activity.
 
 <img src="https://github.com/user-attachments/assets/11644c44-2b8d-43fa-b17f-2c7376efc357" width="500" />
+
